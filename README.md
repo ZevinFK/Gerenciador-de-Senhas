@@ -251,6 +251,4 @@ Ao final do atendimento, o painel volta a ficar vazio.
 
 ---
 
-## Autor
 
-_Seu nome_ — _disciplina / instituição_
