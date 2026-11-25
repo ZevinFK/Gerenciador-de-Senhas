@@ -241,7 +241,7 @@ NORMAL        PREFERENCIAL  URGENTE
 
 Ao final do atendimento, o painel volta a ficar vazio.
 
----
+----
 
 ## Limitações e próximos passos
 
@@ -249,6 +249,6 @@ Ao final do atendimento, o painel volta a ficar vazio.
 - [ ] **Validação dos menus numéricos:** digitar letra em vez de número nos menus de serviço e principal ainda trava a leitura (a validação já existe nos dados do paciente).
 - O programa funciona apenas no **Windows**.
 
----
+----
 
 
